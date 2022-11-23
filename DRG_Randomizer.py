@@ -15,7 +15,7 @@ Driller_Secondary = {1: "Subata 120", 2: "Experimental Plasma Charger", 3: 'Cole
 Driller_Throwables = {1: "Impact Axe", 2: "High Explosive Grenade", 3: "Neurotoxin Grenade", 4: 'Springloaded Ripper'}
 Driller_Equipment = ['Reinforced Power Drills', 'Satchel Charge', '"Mole" Armor Rig']
 
-# Driller Primary Mods (Fist Number is tier, Second Number is the mod)
+# Driller Primary Mods & OCs (Fist Number is tier, Second Number is the mod)
 
 Driller_Pri_Flame_Mods = {11: "High Capacity Tanks", 12: "High Pressure Ejector",
                           21: "Unfiltered Fuel", 22: "Triple Filtered Fuel", 23: "Sticky Flame Duration",
@@ -44,7 +44,7 @@ Driller_Pri_Sludge_Mods = {11: "High Capacity Tanks", 12: "Better Air Pressurize
 Driller_Pri_Sludge_OCs = ["Hydrogen Ion Additive", "AG Mixture", "Volatile Impact Mixture", "Disperser Compound",
                           "Goo Bomber Special", "Sludge Blast"]
 
-# Driller Secondary Mods (Fist Number is tier, Second Number is the mod)
+# Driller Secondary Mods & OCs (Fist Number is tier, Second Number is the mod)
 
 Driller_Sec_Sub_Mods = {11: "Improved Alignment	", 12: "High Capacity Magazine", 13: "Quickfire Ejector",
                         21: "Expanded Ammo Bags", 22: "Increased Caliber Rounds",
@@ -97,7 +97,7 @@ Engineer_Secondary = {1: "Deepcore 40mm PGL", 2: "Breach Cutter", 3: 'Shard Diff
 Engineer_Throwables = {1: "L.U.R.E.", 2: "Plasma Burster", 3: "Proximity Mine", 4: 'Shredder Swarm'}
 Engineer_Equipment = ['Platform Gun', 'LMG Gun Platform', '"Owl" Armor Rig']
 
-# Engineer Primary Mods (Fist Number is tier, Second Number is the mod)
+# Engineer Primary Mods & OCs (Fist Number is tier, Second Number is the mod)
 
 Engineer_Pri_Warthog_Mods = {11: "Supercharged Feed Mechanism", 12: "Overstuffed Magazine",
                              21: "Expanded Ammo Bags", 22: "Loaded Shells", 23: "Choke",
@@ -126,7 +126,7 @@ Engineer_Pri_Loki_Mods = {11: "Increased Caliber Rounds", 12: "Expanded Ammo Bag
 Engineer_Pri_Loki_OCs = ['Eraser', 'Armor Break Module', 'Explosive Chemical Rounds', 'Seeker Rounds', 'Executioner',
                          'Neuro-Lasso']
 
-# Engineer Secondary Mods (Fist Number is tier, Second Number is the mod)
+# Engineer Secondary Mods & OCs (Fist Number is tier, Second Number is the mod)
 
 Engineer_Sec_Deepcore_Mods = {11: "Fragmentary Shell", 12: "Extra Ammo", 13: "HE Compound",
                               21: "Expanded Ammo Bags", 22: "Larger Payload",
@@ -179,7 +179,7 @@ Gunner_Secondary = {1: '"Bulldog" Heavy Revolver', 2: "BRT7 Burst Fire Gun", 3: 
 Gunner_Throwables = {1: "Sticky Grenade", 2: "Incendiary Grenade", 3: "Cluster Grenade", 4: 'Tactical Leadburster'}
 Gunner_Equipment = ['Zipline Launcher', 'Shield Generator', '"Barracuda" Armor Rig']
 
-# Gunner Primary Mods (Fist Number is tier, Second Number is the mod)
+# Gunner Primary Mods & OCs (Fist Number is tier, Second Number is the mod)
 
 Gunner_Pri_Leadstorm_Mods = {11: "Magnetic Refrigeration", 12: "Improved Motor", 13: "Improved Platform Stability",
                              21: "Oversized Drum", 22: "High Velocity Rounds",
@@ -208,7 +208,7 @@ Gunner_Pri_Hurricane_Mods = {11: "Missile Belt", 12: "Pressurized Gas Cylinders"
 Gunner_Pri_Hurricane_OCs = ['Manual Guidance Cutoff', 'Overtuned Feed Mechanism', 'Fragmentation Missiles',
                             'Plasma Burster Missiles', 'Minelayer System', 'Jet Fuel Homebrew', 'Salvo Module']
 
-# Gunner Secondary Mods (Fist Number is tier, Second Number is the mod)
+# Gunner Secondary Mods & OCs (Fist Number is tier, Second Number is the mod)
 
 Gunner_Sec_Bulldog_Mods = {11: "Quickfire Ejector", 12: "Perfect Weight Balance",
                            21: "Increased Caliber Rounds", 22: "Floating Barrel", 23: "Expanded Ammo Bags",
@@ -260,7 +260,7 @@ Scout_Throwables = {1: "Inhibitor-Field Generator", 2: "Cryo Grenade", 3: "Phero
                     4: 'Voltaic Stun Sweeper'}
 Scout_Equipment = ['Grappling Hook', 'Flare Gun', '"Fox" Armor Rig']
 
-# Scout Primary Mods (Fist Number is tier, Second Number is the mod)
+# Scout Primary Mods & OCs (Fist Number is tier, Second Number is the mod)
 
 Scout_Pri_Deepcore_Mods = {11: "Gyro Stabilisation", 12: "Supercharged Feed Mechanism",
                            21: "Increased Caliber Rounds", 22: "Expanded Ammo Bags",
@@ -289,7 +289,7 @@ Scout_Pri_Carbine_Mods = {11: "High-Volume Plasma Field", 12: "Heat Shield", 13:
 Scout_Pri_Carbine_OCs = ['Aggressive Venting', 'Thermal Liquid Coolant', 'Impact Deflection', 'Rewiring Mod',
                          'Overtuned Particle Accelerator', 'Shield Battery Booster', 'Thermal Exhaust Feedback']
 
-# Scout Secondary Mods (Fist Number is tier, Second Number is the mod)
+# Scout Secondary Mods & OCs (Fist Number is tier, Second Number is the mod)
 
 Scout_Sec_Boomstick_Mods = {11: "Expanded Ammo Bags", 12: "Double-Sized Buckshot",
                             21: "Double Trigger", 22: "Quickfire Ejector",
@@ -318,7 +318,7 @@ Scout_Sec_Bolt_Mods = {11: 'Special Bolt: Pheromone Dart', 12: 'Special Bolt: Ch
 
 Scout_Sec_Bolt_OCs = ['Quick Fire', 'The Specialist', 'Cryo Bolt', 'Fire Bolt', 'Bodkin Points', 'Trifork Volley']
 
-# Scout Support Equipment Mods (Fist Number is tier, Second Number is the mod)
+# Scout Support Equipment Mods & OCs (Fist Number is tier, Second Number is the mod)
 
 Scout_Sup_Hook_Mods = {11: "Improved Recharger", 12: "Longer Cable",
                        21: "Greater Cable Stretch",
@@ -498,7 +498,9 @@ if Chosen_Class == "Driller":  # Driller Class Builder
         Sec_Mod_Tier_Four = Driller_Sec_EPC_Mods[Sec_Mod_Tier_Four]
         Sec_Mod_Tier_Five = random.randrange(51, 54)
         Sec_Mod_Tier_Five = Driller_Sec_EPC_Mods[Sec_Mod_Tier_Five]
-
+        
+    #Colette Wave Cooker Mods
+        
     if Secondary_Weapon == 'Colette Wave Cooker':
         Sec_Mod_Tier_One = random.randrange(11, 14)
         Sec_Mod_Tier_One = Driller_Sec_EPC_Mods[Sec_Mod_Tier_One]
@@ -685,6 +687,8 @@ elif Chosen_Class == "Engineer":  # Engineer Class Builder
         Sec_Mod_Tier_Five = random.randrange(51, 54)
         Sec_Mod_Tier_Five = Engineer_Sec_Cutter_Mods[Sec_Mod_Tier_Five]
 
+    # Shard Diffractor Mods    
+        
     if Secondary_Weapon == "Shard Diffractor":
         Sec_Mod_Tier_One = random.randrange(11, 14)
         Sec_Mod_Tier_One = Engineer_Sec_Cutter_Mods[Sec_Mod_Tier_One]
@@ -868,6 +872,8 @@ elif Chosen_Class == "Gunner":  # Gunner Class Builder
         Sec_Mod_Tier_Four = Gunner_Sec_Burst_Mods[Sec_Mod_Tier_Four]
         Sec_Mod_Tier_Five = random.randrange(51, 53)
         Sec_Mod_Tier_Five = Gunner_Sec_Burst_Mods[Sec_Mod_Tier_Five]
+        
+    # ArmsKore Coil Gun Mods    
 
     if Secondary_Weapon == "ArmsKore Coil Gun":
         Sec_Mod_Tier_One = random.randrange(11, 14)
@@ -1051,6 +1057,8 @@ elif Chosen_Class == "Scout":  # Scout Class Builder
         Sec_Mod_Tier_Five = random.randrange(51, 53)
         Sec_Mod_Tier_Five = Scout_Sec_Zhukov_Mods[Sec_Mod_Tier_Five]
 
+    # Nishanka Boltshark X-80 Mods    
+        
     if Secondary_Weapon == "Nishanka Botshark X-80":
         Sec_Mod_Tier_One = random.randrange(11, 14)
         Sec_Mod_Tier_One = Scout_Sec_Zhukov_Mods[Sec_Mod_Tier_One]
