@@ -1059,7 +1059,7 @@ elif Chosen_Class == "Scout":  # Scout Class Builder
 
     # Nishanka Boltshark X-80 Mods    
         
-    if Secondary_Weapon == "Nishanka Botshark X-80":
+    if Secondary_Weapon == "Nishanka Boltshark X-80":
         Sec_Mod_Tier_One = random.randrange(11, 14)
         Sec_Mod_Tier_One = Scout_Sec_Zhukov_Mods[Sec_Mod_Tier_One]
         Sec_Mod_Tier_Two = random.randrange(21, 24)
@@ -1097,7 +1097,7 @@ elif Chosen_Class == "Scout":  # Scout Class Builder
             Sec_OC = random.choice(Scout_Sec_Boomstick_OCs)
         elif Secondary_Weapon == "Zhukov NUK17":
             Sec_OC = random.choice(Scout_Sec_Zhukov_OCs)
-        elif Secondary_Weapon == "Nishanka Botshark X-80":
+        elif Secondary_Weapon == "Nishanka Boltshark X-80":
             Sec_OC = random.choice(Scout_Sec_Bolt_OCs)
 
     # Support Equipment
